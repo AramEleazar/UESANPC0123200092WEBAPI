@@ -1,6 +1,0 @@
-@UESANPC0123200092WEBAPI_HostAddress = http://localhost:5080
-
-GET {{UESANPC0123200092WEBAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
